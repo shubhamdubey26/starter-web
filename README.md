@@ -9,5 +9,7 @@ Sample website with plenty of files for demos
 git.training,
 #### new one
 for rebasing, more changes to my featur branch too
+##### for stash 
+updating for stash
 
 

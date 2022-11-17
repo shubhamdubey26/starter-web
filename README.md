@@ -8,5 +8,6 @@ Sample website with plenty of files for demos
 #### copyright
 git.training,
 #### new one
-for rebasing
+for rebasing, more changes to my featur branch too
+
 

@@ -7,3 +7,6 @@ something
 Sample website with plenty of files for demos
 #### copyright
 git.training,
+#### new one
+for rebasing
+
